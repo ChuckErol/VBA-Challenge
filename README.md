@@ -16,9 +16,9 @@ When a new ticker identified, price changes are calculated.
 Note: GitHub didn't allow me to upload my screen shots, they were PNG files. I had to upload them to my google driver
 
 ##ScreenShots
-![link](https://drive.google.com/file/d/12X2W61rrL9fkfvv47bgWS_kMwHzTDP5A/view?usp=drive_link)
-![link](https://drive.google.com/file/d/1_9qXG9JZ0GJqDa34waML_GhTkbn_SVvP/view?usp=drive_link)
-![link](https://drive.google.com/file/d/1b4TY98tbIWFj_xoMCvZkkGn3JRcoyzcU/view?usp=drive_link)
+https://drive.google.com/file/d/12X2W61rrL9fkfvv47bgWS_kMwHzTDP5A/view?usp=drive_link
+https://drive.google.com/file/d/1_9qXG9JZ0GJqDa34waML_GhTkbn_SVvP/view?usp=drive_link
+https://drive.google.com/file/d/1b4TY98tbIWFj_xoMCvZkkGn3JRcoyzcU/view?usp=drive_link
 
 
 
