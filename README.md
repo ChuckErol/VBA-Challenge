@@ -1,21 +1,16 @@
-# VBA-Challenge
+# VBA-Challenge #
 
-Instructions:
+## Stock Analyze  ## 
+This project is to analyze market data for each given year.  The script iterates through rows to aggregate trading volume. 
+When a new ticker identified, price changes are calculated.
 
-Create a script that loops through all the stocks for one year and outputs the following information:
+1-Yearly change calculated by subtracting first open price to last close price for each ticker and year (sheet).
+*Color coded for positive and negative values 
+2-Percentage change was calculated with yearly change divided by first open price.
+3-Total stock volume calculated next to each ticker.  
 
-    The ticker symbol
-    Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-    The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
-    The total stock volume of the stock. The result should match the following image:
-    Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
-    Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
+## Summary Table ## 
+1-  Greatest % Increase and Decrease are calculated with comparing yearly change percentage values.
+ 2- Greatest Volume is calculated with stocks yearly totals volumes.  
 
-Note:
-  Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
-
-
-Other Considerations:
-    
-    Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in under 3 to 5 minutes.
-    Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+![img](https://cdn.corporatefinanceinstitute.com/assets/stock-market-index-1024x768.jpeg)
